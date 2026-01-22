@@ -1,1 +1,17 @@
-{}
+{
+  "h2md5": {
+    "AB4P//+9AAAA": "qH1iS/gxs9gtV3BY2Iwa3A",
+    "hznHbmgfkAkjuQDJ3w73XPQh05yrtUZQxLmtGbanbYU": "ds2yutlYLSPB9vTYaCGNbA",
+    "xeXdPXdBSiBGLLtREpowYDT/bAb8P28O2NrUnyeL1Fw": "2Zrvd9S1NjTUH3ZU1F73sg=="
+  },
+  "origins": {
+    "xeXdPXdBSiBGLLtREpowYDT/bAb8P28O2NrUnyeL1Fw": {
+      "url": "https://www.moddb.com/mods/more-vampire-eyes/downloads/more-vampire-eyes-le-15",
+      "tentative_name": "More_Vampire_Eyes-15.7z"
+    },
+    "AB4P//+9AAAA": {
+      "url": "https://www.moddb.com/mods/skyrim-realistic-overhaul",
+      "filename-on-page": "Skyrim_Realistic_Overhaul_Part_1.7z"
+    }
+  }
+}
