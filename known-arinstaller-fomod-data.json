@@ -10309,6 +10309,685 @@
      }
     ]
    }
+  },
+  "yQqN+I7wdwwdwx6b1qOhLZ5zs3Jn/55pYeuwH46RvUg": {
+   "": {
+    "modulename": "Aspens Ablaze",
+    "required": {},
+    "order": 1,
+    "isteps": [
+     {
+      "name": "Plugin Selection",
+      "ord": 0,
+      "groups": [
+       {
+        "name": "Select One",
+        "sel": 3,
+        "ord": 1,
+        "plugins": [
+         {
+          "name": "With Thickets",
+          "descr": "Default plugin with thickets (added saplings) around Sarethi Farm and elsewhere. Contains no interior modifications.",
+          "img": "img/01.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Thickets",
+            "value": "active"
+           }
+          ]
+         },
+         {
+          "name": "Without Thickets",
+          "descr": "An alternative plugin with no thickets. No interior modifications.",
+          "img": "img/01.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Thickets",
+            "value": "inactive"
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "visible": {}
+     },
+     {
+      "name": "Size",
+      "ord": 0,
+      "groups": [
+       {
+        "name": "Select One",
+        "sel": 3,
+        "ord": 2,
+        "plugins": [
+         {
+          "name": "Normal",
+          "descr": "Default size trees that match the vanilla tree size.",
+          "img": "img/02.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Big",
+            "value": "inactive"
+           }
+          ]
+         },
+         {
+          "name": "Big Trees",
+          "descr": "Some big, towering trees are added to the mix for more variety. Note that this option may cause a performance hit.",
+          "img": "img/06.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Big",
+            "value": "active"
+           },
+           {
+            "name": "LOD",
+            "value": "inactive"
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "visible": {}
+     },
+     {
+      "name": "Leaf Color",
+      "ord": 0,
+      "groups": [
+       {
+        "name": "Select One",
+        "sel": 3,
+        "ord": 1,
+        "plugins": [
+         {
+          "name": "Autumnal",
+          "descr": "All aspens have yellow/orange leaves, like in vanilla.",
+          "img": "img/06.jpg",
+          "files": {
+           "folders": [
+            {
+             "src": "core-autumn"
+            }
+           ]
+          },
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Autumn",
+            "value": "active"
+           }
+          ]
+         },
+         {
+          "name": "Autumnal Variety",
+          "descr": "Most aspens have orange leaves but some more yellow, others more red and some even greener. Note: Increases the VRAM usage.",
+          "img": "img/03.jpg",
+          "files": {
+           "folders": [
+            {
+             "src": "core-variety"
+            }
+           ]
+          },
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Variety",
+            "value": "active"
+           }
+          ]
+         },
+         {
+          "name": "Summer",
+          "descr": "All aspens have green leaves like in summer.",
+          "img": "img/04.jpg",
+          "files": {
+           "folders": [
+            {
+             "src": "core-summer"
+            }
+           ]
+          },
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "Summer",
+            "value": "active"
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "visible": {}
+     },
+     {
+      "name": "Resolution",
+      "ord": 0,
+      "groups": [
+       {
+        "name": "Select One",
+        "sel": 3,
+        "ord": 1,
+        "plugins": [
+         {
+          "name": "2K",
+          "descr": "2K resolution for smaller memory footprint.",
+          "img": "img/06.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "2K",
+            "value": "active"
+           }
+          ]
+         },
+         {
+          "name": "4K",
+          "descr": "4K resolution for best details.",
+          "img": "img/03.jpg",
+          "tdescr": {
+           "type": 4
+          },
+          "conditionflags": [
+           {
+            "name": "4K",
+            "value": "active"
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "visible": {}
+     },
+     {
+      "name": "LOD Assets",
+      "ord": 0,
+      "groups": [
+       {
+        "name": "Select One",
+        "ord": 2,
+        "plugins": [
+         {
+          "name": "Install",
+          "descr": "Contains 3D LOD as well as billboard LOD assets. Make sure to install these if you want to use xLODGen or similar to generate your custom LOD.",
+          "img": "img/05.jpg",
+          "tdescr": {
+           "type": 3
+          },
+          "conditionflags": [
+           {
+            "name": "LOD",
+            "value": "active"
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "visible": {}
+     }
+    ],
+    "conditional": [
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Thickets",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "files": [
+        {
+         "src": "core-plugin\\aspens ablaze (big).esp",
+         "dst": "aspens ablaze.esp"
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Thickets",
+          "value": "inactive"
+         }
+        }
+       ]
+      },
+      "files": {
+       "files": [
+        {
+         "src": "core-plugin\\aspens ablaze (big) (no thickets).esp",
+         "dst": "aspens ablaze.esp"
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "inactive"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Thickets",
+          "value": "inactive"
+         }
+        }
+       ]
+      },
+      "files": {
+       "files": [
+        {
+         "src": "core-plugin\\aspens ablaze (no thickets).esp",
+         "dst": "aspens ablaze.esp"
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "inactive"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Thickets",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "files": [
+        {
+         "src": "core-plugin\\aspens ablaze.esp",
+         "dst": "aspens ablaze.esp"
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Autumn",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-autumn",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Variety",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-variety",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Summer",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-summer",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Autumn",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-autumn-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Summer",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-summer-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Variety",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-variety-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Autumn",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-autumn-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Summer",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-summer-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Variety",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "Big",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "LOD",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "lods-variety-big",
+         "pri": 1
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Autumn",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "2K",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-autumn-2k",
+         "pri": 2
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Summer",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "2K",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-summer-2k",
+         "pri": 2
+        }
+       ]
+      }
+     },
+     {
+      "deps": {
+       "deps": [
+        {
+         "flagdep": {
+          "name": "Variety",
+          "value": "active"
+         }
+        },
+        {
+         "flagdep": {
+          "name": "2K",
+          "value": "active"
+         }
+        }
+       ]
+      },
+      "files": {
+       "folders": [
+        {
+         "src": "core-variety-2k",
+         "pri": 2
+        }
+       ]
+      }
+     }
+    ]
+   }
   }
  },
  "empty": [
@@ -10329,6 +11008,7 @@
   "P4ZDbsV24GX7",
   "UNHLtPIOtVDK",
   "YXSbPT5PARJx",
+  "aPLWpfGC5tdL",
   "bTwatrpWMoUf",
   "fhRi4vzjdVhF",
   "lVPVtkEqXdoG",

@@ -4229,6 +4229,761 @@
    },
    "aka": []
   },
+  "aPLWpfGC5tdLjpACTJOcl5F0vqhPwW+ZZciEtDfV/Bw": {
+   "by": "arseniizar",
+   "s": 38158636,
+   "f": {
+    "dyndolod": {
+     "render": {
+      "billboards": {
+       "dyndolod": {
+        "lod": {
+         "trees": {
+          "treepineforestbroken06_09e933e6_trunk.nif": "FQki6JeMnGPZ|9163"
+         }
+        }
+       }
+      }
+     }
+    },
+    "meshes": {
+     "_byoh": {
+      "architecture": {
+       "byohhouse": {
+        "byohbyohwrhubint01.nif": "Wsn8chUR/A5f|440272"
+       }
+      },
+      "clutter": {
+       "house crafting": {
+        "inventory": {
+         "invblacksmithgrindingwheel01.nif": "n5FUK8FmV4Ne|55053"
+        },
+        "soil01.nif": "pyutwZV80Wtc|12213"
+       },
+       "resources": {
+        "glass01.nif": "RpwbWjcoJHyD|19552"
+       }
+      },
+      "plants": {
+       "byohhousefloracarrots01.nif": "WpmpCPULZQ3L|173116",
+       "switchnodechildren": {
+        "byohhousefloracarrots01_1.nif": "iG9hPn4bSJoY|37946"
+       }
+      }
+     },
+     "actors": {
+      "dlc01": {
+       "horse": {
+        "character assets": {
+         "soulcairnhorsebone.nif": "k3o8YQjwdQg6|317205"
+        }
+       }
+      }
+     },
+     "animobjects": {
+      "animobjectbookpage.nif": "VOY76if7KjrM|1122",
+      "animobjectmortar.nif": "3/QA+KpQJ0Iq|6819",
+      "animobjectnote.nif": "5/5MqHLKaks3|12576",
+      "animobjecttg05journal.nif": "emziAbNWRJNi|54122"
+     },
+     "architecture": {
+      "farmhouse": {
+       "farmhouse05destroyed02.nif": "pcNh26yJtB3d|322450",
+       "farmhouseanimdoor01.nif": "95smzG91N86h|22923",
+       "farmhouseanimdoor02.nif": "XzsRQzKNEnXb|22891",
+       "farmhousedoor01.nif": "+Kqt0VklYgHN|13287",
+       "farmhouseldoor01.nif": "LO5e2GE9UdDE|16106",
+       "farmwell01.nif": "2d69PIm3hAI6|350828",
+       "interior": {
+        "basement": {
+         "farmbdivider03.nif": "X3yjBUJyD9zP|34411",
+         "farmbdivider04.nif": "VsyhTL5vXI/c|43640",
+         "farmbtrapdoor01.nif": "ly7CiXymMK8V|75442",
+         "farmbtrapdoor02.nif": "uPc+QQAlAYGq|16265",
+         "farmbwell01.nif": "xdN4e1igmOri|600198",
+         "farmhousejaildoor01.nif": "JgbK5v1UPdiK|76965"
+        },
+        "farmintlhfirepit02.nif": "Za6lrQxGpbgX|83204",
+        "farmintlhfirepit03.nif": "d/nOOJX8GXAX|174390"
+       },
+       "lumbermill01.nif": "UJAe4xJPZk9I|3770631"
+      },
+      "markarth": {
+       "mrkogmundshouse02.nif": "josBVtRt1Q5u|51428",
+       "mrksilverfishinnpart05.nif": "EurJSV5xjYbH|636978",
+       "mrktemplecragsteps02.nif": "q9Oxz9iF13t8|76967",
+       "mrktemplecragsteps06.nif": "/dLaPbcJkiui|24735",
+       "mrktemplecragsteps07.nif": "LDEKHLq5hoAp|27237"
+      },
+      "riften": {
+       "rtblacksmith01city.nif": "1T7o4qzQhVFM|344564",
+       "rtfishery01city.nif": "+fEDtgG7nbtU|211980",
+       "rtmeadery02city.nif": "2ooolLkMwI/+|209039",
+       "rtorphanage01city.nif": "bEHPs+FQ+7Eu|489436",
+       "rtplayerhouse01city.nif": "J3TQfbgfmTPq|311111",
+       "rtwarehouse01city.nif": "S+qjWuZ9daAe|99255"
+      },
+      "solitude": {
+       "clutter": {
+        "sgrate01.nif": "Wugln/D5CFr4|11637",
+        "sropefestivalline01.nif": "7BKOLGmBkI/C|12103",
+        "sropefestivalring.nif": "FmB1/4VRxunf|5296",
+        "ssighpost.nif": "b7Tm29EZv6Am|19339",
+        "ssighpost01.nif": "8Y2bAykDiWPP|38180",
+        "ssighpost02.nif": "PfUCv4N+NOsT|34218"
+       },
+       "interiors": {
+        "slgftracon02.nif": "9H83fZ5GMrga|19203",
+        "slgftracon03.nif": "d8DurmUhQgF+|52521",
+        "slgftracon04.nif": "+G7qR9+4Wft6|68161",
+        "slgftracon05.nif": "OR1dLptww9e3|70299",
+        "slgftracon06.nif": "OfUXj3jVhV6O|32942"
+       },
+       "sbardscollege.nif": "6ApsHNHNn7v6|2286840",
+       "sbardscollegetower.nif": "J4utG2yv5wut|182900",
+       "sbits and pieces.nif": "C4p819LHrJ61|382675",
+       "sblacksmith.nif": "NxyzE2Hx+vds|575673",
+       "sbluepalaceentrance.nif": "6qac3gbOmRYP|370336",
+       "sbluepalacegate.nif": "HNAtMAVtzhmy|111954",
+       "sbridge01.nif": "aLRF13EVvrCE|7044254",
+       "sbryling house.nif": "WXcAG9CiYAaa|562170",
+       "scastle.nif": "QFflD5bsO7og|1780322",
+       "scastleemperorentrance.nif": "DcTNzrTE6xac|175662",
+       "scastlewall01.nif": "3P45IVqVEpuj|371199",
+       "scastlewall02.nif": "UOnxbOcI/67x|164270",
+       "scastlewall05.nif": "UmaSLUJCn71N|212946",
+       "scastlewall06.nif": "Utj4qIxH40Xp|172377",
+       "serikur house.nif": "TPp/dKvW5eQc|591726",
+       "sevette san house.nif": "EjQAaP6gXnRp|637185",
+       "shmd_apothecary.nif": "ZY7TVbIns3ZJ|321871",
+       "shouseforsale.nif": "z3UsJ2HAtLR+|674155",
+       "smaingate.nif": "u9IY6VTTzK1P|466351",
+       "smuseleum.nif": "yLzAB/4UuNLu|403883",
+       "sninedivinecourt.nif": "BSoGI05KW91B|505757",
+       "spatiowallentrance.nif": "gsUS+yEHBW15|127207",
+       "sraidiantraiments.nif": "6ygpVRuyWltP|293331",
+       "sstyrrshouse.nif": "NZAOZkCvYEyc|327811",
+       "sstyrrshousedestroyed.nif": "mLmw6Kd58h+d|334722",
+       "sthalmorbarracks.nif": "szBdT1pk2ES4|361272",
+       "sthalmorhouse.nif": "1Ou9clb8ulgI|664313",
+       "sthe winking skeever.nif": "4LlzSTZarbCQ|424162",
+       "svittoriavicihouse.nif": "hC8NkXKaxGiI|781671",
+       "svittoriavicihousedestroyed.nif": "Eoxn4fW8/nZl|807863",
+       "swell.nif": "g+7otLyduzKF|291696",
+       "swelldestroyed.nif": "s2HDJBegj9qW|299350",
+       "swindmill.nif": "k7b6O4/vy946|886112"
+      },
+      "sovengarde": {
+       "sovngardeinterior": {
+        "sovintstropenl.nif": "UPks+du1UorG|56891",
+        "sovintstropenr.nif": "0K8IHcdgLbR8|55593"
+       }
+      },
+      "whiterun": {
+       "wrbuildings": {
+        "wrbreezehome01.nif": "VJwV2bOV20ey|237732",
+        "wrhallofthedead01.nif": "OAshFouTaGoF|401506",
+        "wrhouse02.nif": "moyRVd+ypfaJ|375601",
+        "wrhouseblacksmith01.nif": "v4DufYok3k4S|510980",
+        "wrhousegreymane01.nif": "MzzgHDu1WDBO|281980",
+        "wrhousemeadery01.nif": "2TZKvs4ZIuKa|551822",
+        "wrhousemeaderywarehouse01.nif": "W1ZYeEsqEB9C|551771",
+        "wrhousestores01.nif": "bUfdwninVE7u|539567",
+        "wrhousewind01.nif": "Q+6xIPpDbTNV|268618",
+        "wrhousewind03.nif": "c3WStxdyKg8P|449902",
+        "wrhousewind04.nif": "uA2Rfofrl2/2|353256"
+       },
+       "wrcitywalls": {
+        "wrwallmaingate01.nif": "y0E7noLDAqtr|452629",
+        "wrwallmaingate01ext.nif": "4hAlWghzbdns|194243",
+        "wrwallruinsfree01.nif": "fwMLFlyBi9Pf|28322",
+        "wrwallstr01.nif": "8dQyxkDV5/l3|16109",
+        "wrwallstrup128.nif": "71XhWF+G1xOi|15997",
+        "wrwallstrup128shift128nohighcol.nif": "4rsYYdheW+YZ|16106"
+       },
+       "wrinteriors": {
+        "wrcastle": {
+         "wrintcastlefloorcapstr02.nif": "kqW00bFE/vD3|4946",
+         "wrintcastlewallstrtrans512.nif": "81Xwb81E2jE+|5773",
+         "wrintcastlewallstrtrans512r.nif": "Ey0tcG4tsRQG|6161"
+        },
+        "wrintfloorstmid01largealtar01.nif": "3cGMqmM08yM1|63587"
+       },
+       "wrterrain": {
+        "wrcastlestairs01.nif": "3Ydp0Y9TUcZw|139834",
+        "wrguardhouse01arch01.nif": "+3wE8NMzsrvi|22503"
+       }
+      },
+      "windhelm": {
+       "doors": {
+        "whcastledoorentrance.nif": "UXW39Czoi1e/|23100",
+        "whgrayquarterdoor01.nif": "dE1h831fFFvh|31086"
+       },
+       "interiorkits": {
+        "castle": {
+         "whfireplace01.nif": "IysFX1vm2Rgv|20778"
+        },
+        "wood": {
+         "whintwoodstairs01.nif": "8NVlM/IwjhGS|67339"
+        }
+       },
+       "wharetino.nif": "bkDl4sIYkmF5|643236",
+       "whdocks1.nif": "09+TDLTcq1us|504245",
+       "whdocks2.nif": "TiipZdPCok9H|895120",
+       "whfreewall01.nif": "4QsG4T+BndPf|25027",
+       "whgate4.nif": "1MfWpFa5cxjQ|40336",
+       "whgrayquarter01.nif": "9Ua7dxzuv6sm|379436",
+       "whgrayquarter02.nif": "9AvdcRJqxC42|158633",
+       "whgrayquarter03.nif": "Bx4LNoRhewPN|316404",
+       "whgrayquarter04.nif": "j5RfYIdCCVrZ|661817",
+       "whgrayquarter05.nif": "TOl8H9ndxHbK|41340",
+       "whinnerouterwall1.nif": "PIXIlbSbBWvT|343452",
+       "whinnerouterwall3.nif": "WwiSUI0XANH4|190020",
+       "whinnerwall01.nif": "cnWYaN6FHICf|159514",
+       "whinnerwall02.nif": "GurnlGkED2ED|50412",
+       "whmaingatesteps.nif": "79RaTfJIEPlh|33293",
+       "whmarket04.nif": "WAM4kQ24lA4B|307180",
+       "whouterwall02.nif": "XMcO7Yeh3OrJ|210954",
+       "whouterwall04.nif": "fAoeYrOS98ko|193373",
+       "whouterwall1.nif": "kBh1CjbF5oE/|445574",
+       "whouterwall2.nif": "44x/8l1wholQ|185108",
+       "whouterwall3.nif": "0LrpNqStxnMB|131066",
+       "whouterwall5.nif": "mR6JRaaSEl95|498384",
+       "whouterwall6.nif": "dR3rIKiQWZxc|160882",
+       "whouterwallc1.nif": "bIQe3yV5G651|106445",
+       "whouterwallstatue01.nif": "jyxD0INRdA8c|8528",
+       "whprison01.nif": "JXvP8uVyr7/s|209792",
+       "whprisonwall01.nif": "rWsYGsWS73ZJ|7651",
+       "whprisonwall02.nif": "HBAdcdXHGzDz|6379",
+       "whprisonwall03.nif": "wH2NpLhcTCi2|20675",
+       "whprisonwall04.nif": "yegKW1SMjyV/|8716",
+       "whprisonwall05.nif": "mTw8yzSciHMP|16773",
+       "whprisonwall06.nif": "aUAovFilc6Cp|9027",
+       "whprisonwall07.nif": "UhGTuxI9tPRg|9027",
+       "whstonequarter2.nif": "PW55J3k6IIMS|261751",
+       "whtempletalos.nif": "GwBWo9P228fD|180964",
+       "whtempletalos3.nif": "1IlLEkujmDfe|623057",
+       "whwallharald.nif": "F4dgyOdQ7uwU|65811",
+       "whwallolaf.nif": "D8dqYRIvjd78|74918",
+       "windhelmbridge.nif": "Wvl3lg6lz0cD|616411",
+       "windhelmbridge2.nif": "aT/c6nVaR73t|225769"
+      }
+     },
+     "armor": {
+      "steel": {
+       "1stpersongauntlets_0.nif": "voPutgMzVgnO|201399",
+       "1stpersongauntlets_1.nif": "o/ssiPVg+6dY|201399"
+      }
+     },
+     "clutter": {
+      "blacksmith": {
+       "blacksmithsharpeningwheel01.nif": "pvZEyDYLDSJh|57622",
+       "blacksmithsharpeningwheelstatic.nif": "wrKftZSz9AQC|57634"
+      },
+      "books": {
+       "notetornpaper.nif": "MVx4y5UF5Pde|6437"
+      },
+      "civilwar": {
+       "civilwarcot01.nif": "8o8ohnh97V5P|38188"
+      },
+      "common": {
+       "cratesmall01.nif": "PShb3Nu9upY6|32675",
+       "cratesmall01eeco.nif": "KffgznxqwvES|34038",
+       "cratesmall02.nif": "8T3/R6ohbLg9|32960",
+       "cratesmall03.nif": "nkx0OtRxQwZN|33622",
+       "cratesmall03eeco.nif": "xcKe6nbHhmNL|34798",
+       "cratesmall04.nif": "/J7iQA0BKbbA|33750",
+       "cratesmalllong01.nif": "BZMYBaDpteu5|47296",
+       "cratesmalllong01eeco.nif": "HhbjrLI1wwa4|48633",
+       "cratesmalllong02.nif": "nJEWP0z9UAQp|44630",
+       "cratesmalllong03.nif": "3fPL1ZQU7DxM|33859",
+       "cratesmalllong04.nif": "TibAWw2JcYOT|28635",
+       "cratesmalllong04eeco.nif": "bInAgREZUJrz|29751"
+      },
+      "counterset": {
+       "countercornerin01.nif": "ZqgZsEWZhsR0|13785",
+       "countercornerout01.nif": "aVTnaZO5oKSo|8185",
+       "counterleft01.nif": "xqN03snz4Ol5|7912",
+       "counterright01.nif": "IKqTBKtSp8Uu|7898",
+       "counterstraight01.nif": "/g5xz3HOtfuJ|4514"
+      },
+      "deadanimals": {
+       "mountedfemaleelk.nif": "9BlRY+mLTr+5|44660",
+       "mountedmaleelk.nif": "Y0QicSRRI4sX|81197",
+       "wallmountedhorker01.nif": "3Iw4ZimVBvTV|60967",
+       "wallmountedwolf01.nif": "qZ01KRAV9og2|76050",
+       "wallmountedwolf02.nif": "d6Qk4DZ3iB2u|76078"
+      },
+      "dragonmap": {
+       "dragontablet01.nif": "PTNbb4e71yk+|16489"
+      },
+      "hay": {
+       "haymound01.nif": "O+RU+tedQglG|11659",
+       "haymound02.nif": "/Gv67D4QlPzY|12117",
+       "haymoundl01.nif": "JOjWbkg3Ef3q|12213",
+       "hayscatter01.nif": "Bn0lkr3T/zcw|1865",
+       "hayscatter02.nif": "FqGKIfock4g0|1865",
+       "hayscatter03.nif": "OrP8YNVcheiM|2601",
+       "hayscatter04.nif": "sznN47ySlyN+|4761",
+       "hayscatter05.nif": "UevViYQjmawe|4497",
+       "hayscatter06.nif": "8VmSEKpTD+cQ|10105"
+      },
+      "ingredients": {
+       "carrot01.nif": "8+CHjQUmyJPA|17463",
+       "mothwing01.nif": "ZfJ+uQRAoD/m|5022",
+       "mothwing03blue.nif": "xxT824zq/BOB|5026"
+      },
+      "lumbermill": {
+       "lumbermillsaw01": {
+        "lumbermillsaw01.nif": "HsEmQHzUr8wS|62307"
+       }
+      },
+      "potions": {
+       "poisondamagehealth01.nif": "WRqBz29NQ+ae|10370",
+       "poisondamagehealth02.nif": "poia7IcrI6Hd|18902",
+       "poisondamagehealth05.nif": "xpLdPAJzfTCl|28238",
+       "poisondamagehealthlinger01.nif": "tY3p/pBRznN/|8828",
+       "poisondamagehealthlinger02.nif": "2ompZ69Ie7pI|11698",
+       "poisondamagehealthlinger05.nif": "ETk+B/m776wY|27034",
+       "poisondamagemagicka01.nif": "2wKt8jH+/x4G|10373",
+       "poisondamagemagicka02.nif": "KoNFYz5Nypd3|15905",
+       "poisondamagemagicka05.nif": "6F7uERHmEXLr|23808",
+       "poisondamagemagickalinger01.nif": "wJ8vXwPpqsHE|8831",
+       "poisondamagemagickalinger02.nif": "80ql7fi3Wc/C|14781",
+       "poisondamagemagickalinger05.nif": "Domtxlp/0xnC|27642",
+       "poisondamagemagickarecovery01.nif": "96XaVXymp0m6|10397",
+       "poisondamagemagickarecovery02.nif": "SKnH0xIMygT6|18117",
+       "poisondamagemagickarecovery05.nif": "Di47Zs70pV+t|23824",
+       "poisondamageskill.nif": "sU/CY0BXSl9p|13409",
+       "poisondamagestamina01.nif": "wD4jGDq4LT5q|8813",
+       "poisondamagestamina02.nif": "vBmGkx+h7//W|11683",
+       "poisondamagestamina05.nif": "84wuV56rrHqP|27024",
+       "poisondamagestaminalinger01.nif": "7crEy8dnB3l/|8831",
+       "poisondamagestaminalinger02.nif": "KZ5rPQBffkgi|13727",
+       "poisondamagestaminalinger05.nif": "V/8kNfDl1dAb|23386",
+       "poisondamagestaminarate01.nif": "YpuLMhhV96Ik|10385",
+       "poisondamagestaminarate02.nif": "jv2i1cOTIkDn|18105",
+       "poisondamagestaminarate05.nif": "SigyLB9jaP5V|23816",
+       "poisonfear01.nif": "DcfqbK6GIAhh|10346",
+       "poisonfear02.nif": "CULFcJ7xCZRg|19486",
+       "poisonfear05.nif": "/Gs/BaF0W3/K|23966",
+       "poisonfrenzy01.nif": "2gQBNFToBwK+|10352",
+       "poisonfrenzy02.nif": "AoU2iud2OIkc|21680",
+       "poisonfrenzy05.nif": "X7sHJeusM5Vx|28354",
+       "poisonparalyze01.nif": "fWtHHwaGgB6k|8798",
+       "poisonparalyze02.nif": "S3zWMTJuIiYB|11668",
+       "poisonparalyze05.nif": "FgUne7z7Z40B|25582",
+       "poisonweaknessfire.nif": "z1Cx8rEV76kA|11230",
+       "poisonweaknessfrost.nif": "F+VbxjT2Mm6U|11233",
+       "poisonweaknessmagicka.nif": "okPZO5TYVf2t|10593",
+       "poisonweaknessshock.nif": "nwMDApJDwVY7|10363"
+      },
+      "practicedummy": {
+       "practicedummy02.nif": "8JPJ3FpZCV6j|51547",
+       "practicedummy03.nif": "LLR3mMQcZ+Ht|41096"
+      },
+      "quest": {
+       "ms11unholyaltar.nif": "O3ogQbmh27BP|45322",
+       "tgcalcelmosrubbing.nif": "q6IYrHy93fwr|10976",
+       "tgwallrubbing01.nif": "SBO97p+vhbwg|10893",
+       "tgwallrubbing02.nif": "OQk1/p978pVp|12943",
+       "tgwallrubbing03.nif": "StTG3S0712uP|13835",
+       "tgwallrubbing04.nif": "lAu69Am1r+60|16395",
+       "tgwallrubbing05.nif": "zRc3P8Ps55h6|14623",
+       "tgwallrubbing06.nif": "CxInne4Uw0v5|14231",
+       "tgwallrubbing07.nif": "VqI8iu78cAJI|11821",
+       "tgwallrubbing08.nif": "+NlCtiR42osX|15047",
+       "tgwallrubbing09.nif": "v4XVsJvJuCqN|14749",
+       "tgwallrubbingblank.nif": "7OUwYW034Aga|1461"
+      },
+      "skeevernest": {
+       "skeevernestbale01.nif": "JSb/dcBW7jzj|53587",
+       "skeevernestbale02.nif": "7pNNxzcyXoXG|53505",
+       "skeevernestbale03.nif": "dSFbJsWM+W82|53670",
+       "skeevernestbale04.nif": "T/CgkDOAUOyV|53496",
+       "skeevernestbale05.nif": "Z6IMPAMP4dnE|53648",
+       "skeevernestmound01.nif": "oIKaQUivFFIZ|11601",
+       "skeevernestmound02.nif": "HJ16EJsfz2kg|12038",
+       "skeevernestmound03.nif": "qydKPWHark5Q|10614",
+       "skeevernestmoundl01.nif": "BuqbWfFum+8S|12026",
+       "skeevernestscatter01.nif": "QLq3HIeRu52p|1778",
+       "skeevernestscatter02.nif": "7MHcrmZ4HwEo|1778",
+       "skeevernestscatter03.nif": "XL5CWZfRD9/e|2514",
+       "skeevernestscatter04.nif": "UfZclFprePNx|4674",
+       "skeevernestscatter05.nif": "PbCLRNKYTg9E|4410",
+       "skeevernestscatter06.nif": "j+oqKRh9W9x+|10018"
+      },
+      "statues": {
+       "altarofmolagbal": {
+        "altarofmolagbal01.nif": "ZkpEm5X8QiyP|192287"
+       }
+      },
+      "wine": {
+       "winebottle01b.nif": "j/zrd5gXMZcu|21456",
+       "winebottle01bempty.nif": "UudphA0PDj1b|19693"
+      }
+     },
+     "creationclub": {
+      "twbsse001": {
+       "dungeons": {
+        "dwemer": {
+         "dweretractingactivator01.nif": "AP0HU8J/THpx|53955",
+         "dweseasoncontrolgeminv01.nif": "sWCjwhb/5u5O|5600"
+        }
+       }
+      }
+     },
+     "dlc01": {
+      "armor": {
+       "ivory": {
+        "f": {
+         "1stpersongauntletsivory_0.nif": "HTdOfKyxc3sa|242379",
+         "1stpersongauntletsivory_1.nif": "L+sGaCd9eu3O|242379"
+        },
+        "m": {
+         "1stpersongauntletsivory_0.nif": "ZYv9GObdq9X2|234561",
+         "1stpersongauntletsivory_1.nif": "pmMogn7uuRAB|234561"
+        }
+       }
+      },
+      "clutter": {
+       "dlc01dwemerschematics.nif": "1EaNO4lNWwl9|7467",
+       "dlc01snowelfchest.nif": "xD3uaYjk5lwn|121099"
+      },
+      "critters": {
+       "ancestormothwing01.nif": "XJ5Rs9p1jV1a|2879"
+      },
+      "landscape": {
+       "dlc1icefloefrosts01.nif": "qR6AkWnscjEg|1501",
+       "dlc1icefloefrosts02.nif": "0hA2xroCt1By|2245",
+       "dlc1icefloefrosts03.nif": "uvd1yXkQS4m5|2333",
+       "dlc1icefloel01.nif": "yVMVe7ipdchB|22054",
+       "dlc1icefloem01.nif": "Q9hZKMim3YoM|15493",
+       "dlc1icefloes01.nif": "BcJYAXRwJK6O|9755",
+       "dlc1icefloes02.nif": "BUC9kx1zoyd+|6553",
+       "lakesnow01.nif": "MiT3WSxS5tPI|40935",
+       "lakesnowsmall01.nif": "VZ9pEwpoB8v0|15197",
+       "lakesnowsmall02.nif": "3h1cp2BYSg7Q|16132"
+      },
+      "plants": {
+       "switchnodechildren": {
+        "dlc1housefloracarrots01_1.nif": "iG9hPn4bSJoY|37946"
+       }
+      },
+      "soulcairn": {
+       "sc_chest.nif": "D0fDz/9QDUEx|43074",
+       "sc_mausoleumplatform01.nif": "CgNuwJEfk5Ds|3160",
+       "sc_mausoleumplatformarch01.nif": "jtPWIU+h756s|21179"
+      },
+      "weapons": {
+       "dwarven crossbow": {
+        "dwarvenbolt.nif": "tajNuriXNb72|15955",
+        "dwarvenboltprojectile.nif": "EFVpY5mng4x0|8102"
+       }
+      }
+     },
+     "dlc02": {
+      "architecture": {
+       "ravenrock": {
+        "dlc2blacksmithforge01rr.nif": "+UxaGgZQKw9K|246638",
+        "redoran": {
+         "redoranwell01.nif": "8Z9XqusR3wW3|75996"
+        }
+       },
+       "riekling": {
+        "dlc2rieklingbridge01.nif": "aCPVnHb21KRY|457404",
+        "dlc2rieklingbridgeplatform01.nif": "WpD/oU0Lyncp|23038",
+        "dlc2rieklingbridgeplatformsmall.nif": "21QR56oXO4iT|7268",
+        "dlc2rieklingbridgestart01.nif": "B6IVjXm8KVIK|113112",
+        "dlc2rieklingfence01.nif": "ZODApiTrvho2|33422",
+        "dlc2rieklingfence02.nif": "D3ZTBQu/+3c4|14487",
+        "dlc2rieklingfenceend.nif": "tlRgT2vf6SwY|33244",
+        "dlc2rieklingstand01.nif": "zuRjdvCSpeF4|679971",
+        "dlc2rieklingstand02.nif": "/EbQWtC6iyGo|518875",
+        "dlc2rieklingtent01.nif": "E+ivhsDyaW+A|199931",
+        "dlc2rieklingtent02.nif": "+SBoNU4ezhdt|100499"
+       },
+       "skaalvillage": {
+        "dlc2skaalvilfarmwell01.nif": "rc1U6mZLwHRI|197666"
+       }
+      },
+      "armor": {
+       "bonemold": {
+        "m": {
+         "1stpersongauntlets_0.nif": "/YRdhz1BNoOR|243917",
+         "1stpersongauntlets_1.nif": "IqsokJ1EEyOb|243917"
+        }
+       }
+      },
+      "clutter": {
+       "ashpiles": {
+        "ashmound01.nif": "W3GTtuYCu2ih|9018",
+        "ashmound02.nif": "KT0tyUgGEkH9|12811",
+        "ashmoundl01.nif": "GX+IJUSe/KkM|12092",
+        "ashmoundlhalf01.nif": "BKKu4NqwdjHi|6507",
+        "ashmoundlhalf02.nif": "yxr/bfTwuX4g|6515"
+       },
+       "quest": {
+        "kagrumezcontrolgeminv01.nif": "xfnbXvBH+L1c|6742"
+       },
+       "riekling": {
+        "dlc2rieklingbone01.nif": "YGtj9Zj1+eMl|19759",
+        "dlc2rieklingskull02.nif": "kdaTfDiIeR1F|18855"
+       }
+      },
+      "dungeons": {
+       "dwemer": {
+        "animated": {
+         "dwekagrumezpanel01": {
+          "kagrumezcontrolgemact01.nif": "el/gCCvQjtis|12918"
+         }
+        },
+        "readingroom": {
+         "dlc2dwereadrmint01.nif": "3Nx2Y7sIX4iQ|987119"
+        }
+       }
+      },
+      "effects": {
+       "dlc2hmdaedraragpile01.nif": "IC7ZL0GCYJ5r|44844"
+      },
+      "landscape": {
+       "dlc02ashdunevolcash01m01.nif": "CH1A7apnpvd8|66644",
+       "trees": {
+        "dlc2treepineforesthollow01ash.nif": "4Iuc0EaIvwmF|197947",
+        "treepineforestbroken01.nif": "oYLjPW8SYLzw|55151",
+        "treepineforestbroken02.nif": "BV9bMALuW4xv|14675",
+        "treepineforestbroken04.nif": "Q/2DMTauMRRh|12955",
+        "treepineforestbroken05.nif": "RtNdaQoDMKJk|6760",
+        "treepineforestbroken06.nif": "Bg4/Hi8s7f7z|37052",
+        "treepineforestbrokencluster01.nif": "iVXM5hXDlIHB|30650"
+       }
+      },
+      "traps": {
+       "rieklingswingtrap.nif": "7haOKQ9BA0Gm|57054",
+       "rieklingwalltrap.nif": "e3/f6rwSKqHi|97921"
+      },
+      "weapons": {
+       "nordic": {
+        "nordicbow.nif": "oHxKMBpx68CH|244914"
+       },
+       "stahlrim": {
+        "stahlrimarrow.nif": "EVApu83fhasH|84283",
+        "stahlrimarrowprojectile.nif": "YJXvx3VL5AkI|15709"
+       }
+      }
+     },
+     "dungeons": {
+      "dwemer": {
+       "animated": {
+        "astrolabe": {
+         "armillary": {
+          "dweastrolabearmillary01.nif": "Qz2oxg53mZ7N|3941245"
+         },
+         "hub": {
+          "dweastrolabehub01.nif": "Y2RwrFyBAekG|729070"
+         },
+         "lens": {
+          "dweastrolabelens01.nif": "WnlcqSfvwS+j|796846"
+         }
+        }
+       },
+       "partitions": {
+        "dweptnwallcap01.nif": "HZjvKLA0mE+/|12349"
+       },
+       "roads": {
+        "dweroadcurve90r01.nif": "jNymP1CJCWAY|51947",
+        "dweroadstraightlongramp01.nif": "QtPgruhwIsEm|94032",
+        "dweroadstraightlongramp02.nif": "HQnI6lMtOa0+|90863",
+        "dweroadstrtocurverampl01.nif": "vJZq+PWwhuvh|80712",
+        "dweroadstrtocurverampr01.nif": "k+jQ+6Kr28j3|80720"
+       }
+      },
+      "imperial": {
+       "exterior": {
+        "impexttowershellstairs01.nif": "otNYvIXOOdJB|271540"
+       },
+       "exteriorice": {
+        "impexticetowershellstairs01.nif": "Agy8IJNjlj92|271642",
+        "impexticetowershellstairs02.nif": "UsNra8Zv9/32|311111",
+        "impexticetowershellstairs03.nif": "kZvD07M/byYA|269284",
+        "impexticetowershellstairshelgen01.nif": "3kA3RRVwJ3DH|270022"
+       }
+      },
+      "mines": {
+       "cliffs": {
+        "minecliffs01.nif": "MOjyA5yp0fC6|283032",
+        "minecliffs02.nif": "NoUd2U7FJopR|157517",
+        "minecliffs03.nif": "vxz3kCkUAmo6|84714",
+        "minecliffs03ns.nif": "MBzJHbhxY2H1|76750",
+        "minecliffscornerin01.nif": "qVQhcipzDD0O|82649",
+        "minecliffscornerin01ns.nif": "lJ6zIzwBYspu|78003",
+        "minecliffscornerout01.nif": "kWyGKqA5wG/V|59880",
+        "minecliffscornerout01ns.nif": "aEg8CJFNSxQG|56892",
+        "minecliffsisland01.nif": "QzJwwA0FIo7N|104189",
+        "minecliffsisland01ns.nif": "7NbwtPewqd4q|101645"
+       }
+      },
+      "nordic": {
+       "exterior": {
+        "dwellings": {
+         "nordwelling04extbasea.nif": "vzsYKoe0QvkD|279454"
+        },
+        "norlabyrinthianmaze01.nif": "CMT5wAZyJToM|599874",
+        "norlabyrinthianmaze02.nif": "VmnSdpXDqzlz|604844",
+        "norlabyrinthianmaze03.nif": "uYPpq5vaEu6k|573919",
+        "norlabyrinthianmaze04.nif": "VTltTvsLa2eT|473427",
+        "nortmpextdebris01.nif": "kHNtUqLTqCEI|17083",
+        "nortmpextdebris02.nif": "nnajlSByyNgm|11839",
+        "nortmpextdebris03.nif": "xUgF8t/AaBeB|12223",
+        "nortmpextdebris04.nif": "qvpKVpTMy1bM|11887",
+        "nortmpextdebris05.nif": "rDDU8zxkSyNC|9908",
+        "nortmpextdebris06.nif": "zhoOawJAOZv9|6704",
+        "nortmpextdebris07.nif": "LD1h5q1Kvbt5|6704",
+        "nortmpextdebris08.nif": "Uz55JY37zTzK|6688"
+       }
+      }
+     },
+     "dyndolod": {
+      "lod": {
+       "trees": {
+        "treepineforestbroken01_f2f0ad7fpassthru_lod.nif": "KiZXfF6MSr0n|29281",
+        "treepineforestbroken02_f0f292fdpassthru_lod.nif": "ruW1I+yrfBMR|14448",
+        "treepineforestbroken04_bd61aa3bpassthru_lod.nif": "dECuyh2yMm69|12329",
+        "treepineforestbroken05_b46ca037passthru_lod.nif": "+TZEFlkdxnL/|2035",
+        "treepineforestbroken06_09e933e6passthru_lod.nif": "NaYFLJUioUd0|30660",
+        "treepineforestbrokencluster01_bdea884apassthru_lod.nif": "UX8VQVsTgW8t|30454"
+       }
+      }
+     },
+     "furniture": {
+      "blacksmithingskyforgemarker.nif": "sWl454srKk9u|2401818",
+      "clutter": {
+       "blacksmithsharpeningwheelanimating.nif": "lxkzG/3kIptv|125195",
+       "milllogpile.nif": "Gefmwo5ZqKzG|682924"
+      },
+      "noble": {
+       "nobleendtable01.nif": "sgGnjhvtdQvU|22842",
+       "nobleendtable02.nif": "kQxHO0GpqhR1|23188",
+       "nobleendtable03.nif": "erSPkj0G085l|19240",
+       "nobleendtable04.nif": "IRXoQ/KQeQY7|18879"
+      }
+     },
+     "landscape": {
+      "dirtcliffs": {
+       "dirtcliffs02moss.nif": "nHdzSFW6HaYm|137678"
+      },
+      "ice": {
+       "frozenmarshicefloefrosts01.nif": "9fxD3z2IIQyC|1731",
+       "frozenmarshicefloefrosts02.nif": "MRXJZDVpvTGj|2645",
+       "frozenmarshicefloefrosts03.nif": "EzPI9w27dnjs|2563",
+       "frozenmarshicefloel01.nif": "byzGtj96B+nZ|22136",
+       "frozenmarshicefloem01.nif": "3sah5gSsUsCr|15479",
+       "frozenmarshicefloes01.nif": "fOaR2c2d69yp|9977",
+       "frozenmarshicefloes02.nif": "CIgWleRbYnpg|6851",
+       "frozenmarshicelandbrokenl01.nif": "mjAc1ovA1VnW|15320",
+       "frozenmarshicelandbrokenl01skirt.nif": "YsB2H+gQ6YNQ|20487"
+      },
+      "plants": {
+       "reachmountainmosscover07.nif": "WSEqvs6+3ucO|21326",
+       "reachmountainmosscover08.nif": "Cis9qwt7FfOk|13806",
+       "reachmountainmosscover09.nif": "jEvX3Y3eQPvH|11818",
+       "reachmountainmosscover10.nif": "7/gUvpCfYuHQ|9570",
+       "reachmountainmosscover11.nif": "ryJU7ksS4xHB|11258",
+       "treepineforesthollow01mshrm01.nif": "pMroVf2Naa22|97737"
+      },
+      "roads": {
+       "roadcurve90r01.nif": "K+qyFEbZtMwq|52739",
+       "roadstraightlongramp01.nif": "swGIrJv/8t+T|93921",
+       "roadstraightlongramp02.nif": "enSNRRoV9+Je|90674",
+       "roadstrtocurverampl01.nif": "6y2Okhnr+DNF|80391",
+       "roadstrtocurverampr01.nif": "M36Yx3TJLcp0|89573"
+      },
+      "rocks": {
+       "rockshelf02.nif": "45gkuQrAJkWV|296991"
+      },
+      "trees": {
+       "reachclifftree01.nif": "hQeCzIhw7eq7|133399",
+       "reachclifftree02.nif": "KGSvp+ew8fgx|211428",
+       "treepineforesthollow01.nif": "mhdcQO7zEjaQ|220053",
+       "treepineforesthollow01snow.nif": "tl3IlaWH5Xct|198531",
+       "tundradriftwood02.nif": "GTi/LmpUVyjV|95428",
+       "wrtempletree01.nif": "qJpNeKRDVuyX|157871",
+       "wrtempletree02.nif": "GicZNt/woW/X|194113"
+      }
+     },
+     "traps": {
+      "bonealarm01": {
+       "trapbonealarmhavok01.nif": "Npu0hIj4IbLz|82958"
+      },
+      "hingetrap": {
+       "traphingetrigger01.nif": "2SV6syyDQnYf|65148"
+      },
+      "leantotrap": {
+       "leantotrap01.nif": "Tkp/zupJht/i|56296"
+      },
+      "skullram": {
+       "trapskullram01.nif": "rvAJNZChp2nZ|137136"
+      }
+     },
+     "weapons": {
+      "staff02": {
+       "1stpersonstaff02.nif": "Z456yTmFxTOi|88790",
+       "staff02.nif": "O3X42ZFe+kSt|55512"
+      },
+      "staff03": {
+       "1stpersonstaff03.nif": "dQmjebyrbIyJ|71400",
+       "staff03.nif": "0QYZKaiwd3kc|46634"
+      },
+      "staff04": {
+       "1stpersonstaff04.nif": "/VKs/BiCtfTk|66698",
+       "staff04.nif": "XOHWiTOJ6Oqg|41814"
+      }
+     }
+    },
+    "textures": {
+     "architecture": {
+      "farmhouse": {
+       "farmhouse_metal.dds": "viHvdtsjkqQ9|175268",
+       "farmhouse_metal_n.dds": "M6b20IgIvqnK|175268"
+      },
+      "riften": {
+       "riftenwindows02ay.dds": "UN9OGLLAX/ss|22000",
+       "riftenwindows02noalpha.dds": "yRlgr4jcmSWx|174904"
+      }
+     },
+     "landscape": {
+      "ice": {
+       "frozenmarshice_m.dds": "cjOSZak+NqBq|87556"
+      }
+     },
+     "smim": {
+      "architecture": {
+       "farmhouse": {
+        "farmhouse_int_jaillock.dds": "l1f7CdNGUox0|349672",
+        "farmhouse_int_jaillock_n.dds": "9CxUBfHYwIaY|699216",
+        "metalwork01_jailring.dds": "/d6F06wzHl5w|174904",
+        "metalwork01_jailring_n.dds": "j09kd37/Ry+m|349680",
+        "smim_windmill_fan.dds": "4K7uMJwjYPyQ|1398248",
+        "smim_windmill_fan_n.dds": "8+4WRMIaGF3M|2796368",
+        "smim_windmill_sail_n.dds": "Reye/Vu1BqM2|1398288",
+        "smim_windmill_sail_solitude.dds": "wkS72ZkH+nZR|1398288"
+       },
+       "whiterun": {
+        "wrcastlecarvings.dds": "7f7ZtZnL8iT2|2796344",
+        "wrcastlecarvings_n.dds": "husAA0vnTi6W|5592560"
+       }
+      },
+      "chains": {
+       "metalwork01_brown.dds": "c0/LQfVjY6AU|174904",
+       "metalwork01_brown_n.dds": "oa4X81kTzMXO|349680",
+       "metalwork01_gray.dds": "lqfd1PId4jWp|174904",
+       "metalwork01_gray_n.dds": "j09kd37/Ry+m|349680"
+      }
+     }
+    }
+   },
+   "aka": []
+  },
   "bTwatrpWMoUfEuXq+NX9PhiqmiIC4ZN7MLdumvEcFU0": {
    "by": "arseniizar",
    "s": 36284181,
@@ -9694,6 +10449,568 @@
      "morevampireeyes.bsa": "r35gyJQgGQ+1|274297959",
      "morevampireeyes.esp": "09nbuXqMH3lh|639461",
      "morevampireeyes.txt": "ZGu0jayQ2mQb|241"
+    }
+   },
+   "aka": []
+  },
+  "yQqN+I7wdwwdwx6b1qOhLZ5zs3Jn/55pYeuwH46RvUg": {
+   "by": "arseniizar",
+   "s": 225982891,
+   "f": {
+    "core-autumn": {
+     "meshes": {
+      "effects": {
+       "fxcameraattachleaves.nif": "VMXwtO1CtqnG|6450"
+      },
+      "landscape": {
+       "grass": {
+        "leafpile_aspen_large.nif": "/3yLX4RH5pK1|7641"
+       },
+       "trees": {
+        "treeaspen01.nif": "I4muCg8Ad6Xc|345792",
+        "treeaspen02.nif": "AbyqDqHhI36V|304846",
+        "treeaspen03.nif": "QbF5m3SvX2Sz|294372",
+        "treeaspen04.nif": "JsexsKwP57rI|226166",
+        "treeaspen05.nif": "OZsV5k0nDY+S|223214",
+        "treeaspen06.nif": "hxQfqAONl7nr|129718",
+        "treeaspen07.nif": "ImfyLp1qJYc4|129030",
+        "treeaspen08.nif": "XrENfHCijHkl|129718",
+        "treeaspen09.nif": "ImfyLp1qJYc4|129030"
+       }
+      }
+     },
+     "textures": {
+      "landscape": {
+       "trees": {
+        "treeaspenbarkcomp.dds": "RjBXs650PT4i|349732"
+       }
+      },
+      "mx": {
+       "birch03_c.dds": "gBlySAK5RC/O|22369796",
+       "birch03_n.dds": "T3F71bOg3392|22369796",
+       "mx_leafpile_c.dds": "WTng4cRoyvP8|22369796"
+      }
+     }
+    },
+    "core-autumn-2k": {
+     "textures": {
+      "mx": {
+       "birch03_c.dds": "Diu7Ivccevut|5592580",
+       "birch03_n.dds": "TVwWsbNoNL5o|5592580",
+       "mx_leafpile_c.dds": "g+rjDxe0PWEj|5592580"
+      }
+     }
+    },
+    "core-autumn-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01.nif": "eTQIHHk1oHV3|903577",
+        "treeaspen02.nif": "ZxV2cC8CyDIK|346429"
+       }
+      }
+     }
+    },
+    "core-plugin": {
+     "aspens ablaze (big) (no thickets).esp": "LyxrXzALLIq5|922488",
+     "aspens ablaze (big).esp": "7+pv1E18A3xE|1037179",
+     "aspens ablaze (no thickets).esp": "EeuF/r80DUP6|922488",
+     "aspens ablaze.esp": "u7NCx7G5hlAq|1037179"
+    },
+    "core-summer": {
+     "meshes": {
+      "effects": {
+       "fxcameraattachleaves.nif": "VMXwtO1CtqnG|6450"
+      },
+      "landscape": {
+       "trees": {
+        "treeaspen01.nif": "iGffut3EPjwu|345792",
+        "treeaspen02.nif": "M+ItAz4vvMcj|304846",
+        "treeaspen03.nif": "rjSq1PRCqmCy|294372",
+        "treeaspen04.nif": "LpNO5DqrIGVP|226166",
+        "treeaspen05.nif": "MYZLl2vu+LDZ|223214",
+        "treeaspen06.nif": "VAXQuYz5TaPG|129718",
+        "treeaspen07.nif": "ln7hMjfGiooa|129030",
+        "treeaspen08.nif": "8OX+1jnlaLZ1|129718",
+        "treeaspen09.nif": "ln7hMjfGiooa|129030"
+       }
+      }
+     },
+     "textures": {
+      "landscape": {
+       "trees": {
+        "treeaspenbarkcomp.dds": "RjBXs650PT4i|349732"
+       }
+      },
+      "mx": {
+       "birch03_c.dds": "zmiK3h6N8MhM|22369796",
+       "birch03_n.dds": "T3F71bOg3392|22369796"
+      }
+     }
+    },
+    "core-summer-2k": {
+     "textures": {
+      "mx": {
+       "birch03_c.dds": "vI6kGc8XjHyF|5592580",
+       "birch03_n.dds": "TVwWsbNoNL5o|5592580"
+      }
+     }
+    },
+    "core-summer-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01.nif": "rQxZDiP6hXG+|903577",
+        "treeaspen02.nif": "ACe3ajaZkPLF|346429"
+       }
+      }
+     }
+    },
+    "core-variety": {
+     "meshes": {
+      "effects": {
+       "fxcameraattachleaves.nif": "VMXwtO1CtqnG|6450"
+      },
+      "landscape": {
+       "grass": {
+        "leafpile_aspen_large.nif": "/3yLX4RH5pK1|7641"
+       },
+       "trees": {
+        "treeaspen01.nif": "yIgdWYPnAC9J|345794",
+        "treeaspen02.nif": "PBVgB+zgvc3m|304846",
+        "treeaspen03.nif": "Zcx6feojrt4k|294374",
+        "treeaspen04.nif": "Fq8nx5zIZdUp|226168",
+        "treeaspen05.nif": "R5sdmqaxkZJh|223214",
+        "treeaspen06.nif": "G5/3+Vad2PS0|129720",
+        "treeaspen07.nif": "JbLeCF9h0SiM|129032",
+        "treeaspen08.nif": "a85L1EQJfcQm|129718",
+        "treeaspen09.nif": "EilPM6aanTWx|129032"
+       }
+      }
+     },
+     "textures": {
+      "landscape": {
+       "trees": {
+        "treeaspenbarkcomp.dds": "RjBXs650PT4i|349732"
+       }
+      },
+      "mx": {
+       "birch03_c.dds": "gBlySAK5RC/O|22369796",
+       "birch03_n.dds": "T3F71bOg3392|22369796",
+       "birch03g_c.dds": "Ee7WBTm6oPM0|22369796",
+       "birch03r_c.dds": "YbQ6dJ0lOGfo|22369796",
+       "birch03y_c.dds": "4X35rYuZOq5J|22369796",
+       "mx_leafpile_c.dds": "QSGxhcHV7Oh2|22369796"
+      }
+     }
+    },
+    "core-variety-2k": {
+     "textures": {
+      "mx": {
+       "birch03_c.dds": "Diu7Ivccevut|5592580",
+       "birch03_n.dds": "TVwWsbNoNL5o|5592580",
+       "birch03g_c.dds": "rAGsKN6XiN77|5592580",
+       "birch03r_c.dds": "NsPxb5VkLAVq|5592580",
+       "birch03y_c.dds": "5obKjIAuUgeG|5592580",
+       "mx_leafpile_c.dds": "SJaDzbcKKWsw|5592580"
+      }
+     }
+    },
+    "core-variety-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01.nif": "eTQIHHk1oHV3|903577",
+        "treeaspen02.nif": "lqUgbYVj7591|346431"
+       }
+      }
+     }
+    },
+    "fomod": {
+     "info.xml": "FEba2DVdsXKB|247",
+     "moduleconfig.xml": "gaywTJdClNbo|12313"
+    },
+    "img": {
+     "01.jpg": "QY/kumLqy7o8|351693",
+     "02.jpg": "U1WYdmggLkbj|925130",
+     "03.jpg": "Yf3i26dQHa2i|944100",
+     "04.jpg": "uMweQtdKMAwR|717612",
+     "05.jpg": "0X/MI2cATkDO|295696",
+     "06.jpg": "sxBb1ZGAze3Y|429739"
+    },
+    "lods-autumn": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_2.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_0.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_1.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_2.nif": "BMnR39Sci+xr|56745",
+        "treeaspen03_lod_0.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_1.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_2.nif": "RwIlg0hANL37|69647",
+        "treeaspen04_lod_0.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_1.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_2.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen05_lod_0.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_1.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_2.nif": "mW1eDekVxooR|61895",
+        "treeaspen06_lod_0.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_1.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_2.nif": "EKJTnjI2WUme|34537",
+        "treeaspen07_lod_0.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_1.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_2.nif": "86KH8XVxF45S|57277",
+        "treeaspen08_lod_0.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_1.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_2.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen09_lod_0.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_1.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_2.nif": "Uke1AlzFEMSw|57277"
+       }
+      }
+     },
+     "textures": {
+      "mx": {
+       "treeaspen01_c_lod.dds": "mmDlws0Pq9bI|1398276",
+       "treeaspen01_n_lod.dds": "NhbHi6IoaIHF|1398276",
+       "treeaspen02_c_lod.dds": "+oPHryP3sqwl|1398276",
+       "treeaspen02_n_lod.dds": "yY9JJEsADi5M|1398276",
+       "treeaspen03_c_lod.dds": "CrCYbiv+yZKm|1398276",
+       "treeaspen03_n_lod.dds": "2U6z3Bicppud|1398276",
+       "treeaspen04_c_lod.dds": "yaFuZppCsWvs|1398276",
+       "treeaspen04_n_lod.dds": "QU7cXWkdgFV1|1398276",
+       "treeaspen05_c_lod.dds": "cHbfSBQY5JzL|1398276",
+       "treeaspen05_n_lod.dds": "X+63yKrFkFSm|1398276",
+       "treeaspen06_c_lod.dds": "wVoifulV29aP|1398276",
+       "treeaspen06_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen07_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen07_n_lod.dds": "pD7/dK8/SmJT|1398276",
+       "treeaspen08_c_lod.dds": "wVoifulV29aP|1398276",
+       "treeaspen08_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen09_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen09_n_lod.dds": "pD7/dK8/SmJT|1398276"
+      },
+      "terrain": {
+       "lodgen": {
+        "aspens ablaze.esp": {
+         "treeaspen07_00000d61.dds": "N0VgTO6kXS5H|380112",
+         "treeaspen07_00000d61.txt": "1FxMWOKnHzSM|83",
+         "treeaspen08_000012c3.dds": "lJiYmxTB2YpE|367104",
+         "treeaspen08_000012c3.txt": "jqmo6QVzDROW|83",
+         "treeaspen09_00001825.dds": "OfUw2AK4fwTo|380112",
+         "treeaspen09_00001825.txt": "tqOZ6Gp5yqB/|83"
+        },
+        "skyrim.esm": {
+         "treeaspen01_0006a9e6.dds": "736Z1USKNV1L|752000",
+         "treeaspen01_0006a9e6.txt": "JvKi9t0B3lbs|86",
+         "treeaspen02_0006c9d5.dds": "T0yF2PbJsQLe|668864",
+         "treeaspen02_0006c9d5.txt": "++iCpCl/5DX9|86",
+         "treeaspen03_0006c9d4.dds": "PZ6FVL0dQxBY|458880",
+         "treeaspen03_0006c9d4.txt": "SAh8o/MTrGE3|85",
+         "treeaspen04_0005fada.dds": "lmk2Sz1wvgNG|439648",
+         "treeaspen04_0005fada.txt": "sx6zAvkuM6cU|85",
+         "treeaspen05_0007614b.dds": "aMZya+EjWw2G|564288",
+         "treeaspen05_0007614b.txt": "sx6zAvkuM6cU|85",
+         "treeaspen06_0007614a.dds": "b05LYhxeLitt|367104",
+         "treeaspen06_0007614a.txt": "Tz8VtCTbVoWk|85"
+        }
+       }
+      }
+     }
+    },
+    "lods-autumn-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_1.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_2.nif": "K70LQYTn6Z76|36511",
+        "treeaspen02_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_2.nif": "BY8xauqHylsJ|36511"
+       }
+      }
+     }
+    },
+    "lods-summer": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_2.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_0.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_1.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_2.nif": "BMnR39Sci+xr|56745",
+        "treeaspen03_lod_0.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_1.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_2.nif": "RwIlg0hANL37|69647",
+        "treeaspen04_lod_0.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_1.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_2.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen05_lod_0.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_1.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_2.nif": "mW1eDekVxooR|61895",
+        "treeaspen06_lod_0.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_1.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_2.nif": "EKJTnjI2WUme|34537",
+        "treeaspen07_lod_0.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_1.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_2.nif": "86KH8XVxF45S|57277",
+        "treeaspen08_lod_0.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_1.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_2.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen09_lod_0.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_1.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_2.nif": "Uke1AlzFEMSw|57277"
+       }
+      }
+     },
+     "textures": {
+      "mx": {
+       "treeaspen01_c_lod.dds": "Idd/WTIgNfy3|1398276",
+       "treeaspen01_n_lod.dds": "VWUHywtwonlh|1398276",
+       "treeaspen02_c_lod.dds": "bmIrVzvZZwLz|1398276",
+       "treeaspen02_n_lod.dds": "ZLjgi4z1agoP|1398276",
+       "treeaspen03_c_lod.dds": "RBmjw9DiR7Cx|1398276",
+       "treeaspen03_n_lod.dds": "qJLcllzD2f31|1398276",
+       "treeaspen04_c_lod.dds": "osCh6Sa7Js4L|1398276",
+       "treeaspen04_n_lod.dds": "OO+qyopzVMgr|1398276",
+       "treeaspen05_c_lod.dds": "RrVUVx5MzNVb|1398276",
+       "treeaspen05_n_lod.dds": "0XiEe5xMKWHK|1398276",
+       "treeaspen06_c_lod.dds": "Oz3sXU0dZGbo|1398276",
+       "treeaspen06_n_lod.dds": "2Rz/YlOjWv8P|1398276",
+       "treeaspen07_c_lod.dds": "vhsh6MgclQTT|1398276",
+       "treeaspen07_n_lod.dds": "vz9W+/22pwfJ|1398276",
+       "treeaspen08_c_lod.dds": "Oz3sXU0dZGbo|1398276",
+       "treeaspen08_n_lod.dds": "2Rz/YlOjWv8P|1398276",
+       "treeaspen09_c_lod.dds": "vhsh6MgclQTT|1398276",
+       "treeaspen09_n_lod.dds": "vz9W+/22pwfJ|1398276"
+      },
+      "terrain": {
+       "lodgen": {
+        "aspens ablaze.esp": {
+         "treeaspen07_00000d61.dds": "62RAq/ZPbpjY|380112",
+         "treeaspen07_00000d61.txt": "1FxMWOKnHzSM|83",
+         "treeaspen08_000012c3.dds": "xQ0htk8tK/Rw|370112",
+         "treeaspen08_000012c3.txt": "jqmo6QVzDROW|83",
+         "treeaspen09_00001825.dds": "d1+hTjrLdqlV|380112",
+         "treeaspen09_00001825.txt": "tqOZ6Gp5yqB/|83"
+        },
+        "skyrim.esm": {
+         "treeaspen01_0006a9e6.dds": "OFXlP7VsIpv4|756272",
+         "treeaspen01_0006a9e6.txt": "JvKi9t0B3lbs|86",
+         "treeaspen02_0006c9d5.dds": "bZ9g4ZfzI9Kb|671456",
+         "treeaspen02_0006c9d5.txt": "++iCpCl/5DX9|86",
+         "treeaspen03_0006c9d4.dds": "w2BKUFrKARDM|458880",
+         "treeaspen03_0006c9d4.txt": "SAh8o/MTrGE3|85",
+         "treeaspen04_0005fada.dds": "WNFas727O1XG|442928",
+         "treeaspen04_0005fada.txt": "sx6zAvkuM6cU|85",
+         "treeaspen05_0007614b.dds": "6RBOIoZOgkwL|567568",
+         "treeaspen05_0007614b.txt": "sx6zAvkuM6cU|85",
+         "treeaspen06_0007614a.dds": "vvAkB8lI5NJk|370112",
+         "treeaspen06_0007614a.txt": "Tz8VtCTbVoWk|85"
+        }
+       }
+      }
+     }
+    },
+    "lods-summer-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_1.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_2.nif": "K70LQYTn6Z76|36511",
+        "treeaspen02_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_2.nif": "BY8xauqHylsJ|36511"
+       }
+      }
+     }
+    },
+    "lods-variety": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_2.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_0.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_1.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_2.nif": "BMnR39Sci+xr|56745",
+        "treeaspen03_lod_0.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_1.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_2.nif": "RwIlg0hANL37|69647",
+        "treeaspen04_lod_0.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_1.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_2.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen05_lod_0.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_1.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_2.nif": "mW1eDekVxooR|61895",
+        "treeaspen06_lod_0.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_1.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_2.nif": "EKJTnjI2WUme|34537",
+        "treeaspen07_lod_0.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_1.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_2.nif": "86KH8XVxF45S|57277",
+        "treeaspen08_lod_0.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_1.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_2.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen09_lod_0.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_1.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_2.nif": "Uke1AlzFEMSw|57277"
+       }
+      }
+     },
+     "textures": {
+      "mx": {
+       "treeaspen01_c_lod.dds": "mmDlws0Pq9bI|1398276",
+       "treeaspen01_n_lod.dds": "NhbHi6IoaIHF|1398276",
+       "treeaspen02_c_lod.dds": "J/9c7RSMXAR3|1398276",
+       "treeaspen02_n_lod.dds": "yY9JJEsADi5M|1398276",
+       "treeaspen03_c_lod.dds": "vpV4Lqt38uQC|1398276",
+       "treeaspen03_n_lod.dds": "2U6z3Bicppud|1398276",
+       "treeaspen04_c_lod.dds": "yaFuZppCsWvs|1398276",
+       "treeaspen04_n_lod.dds": "QU7cXWkdgFV1|1398276",
+       "treeaspen05_c_lod.dds": "wcmDvUWXa7ge|1398276",
+       "treeaspen05_n_lod.dds": "X+63yKrFkFSm|1398276",
+       "treeaspen06_c_lod.dds": "7bqHtlCXyDYK|1398276",
+       "treeaspen06_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen07_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen07_n_lod.dds": "pD7/dK8/SmJT|1398276",
+       "treeaspen08_c_lod.dds": "GBTT4SWXhxqd|1398276",
+       "treeaspen08_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen09_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen09_n_lod.dds": "pD7/dK8/SmJT|1398276"
+      },
+      "terrain": {
+       "lodgen": {
+        "aspens ablaze.esp": {
+         "treeaspen07_00000d61.dds": "9pgP+DkN0kaX|380112",
+         "treeaspen07_00000d61.txt": "1FxMWOKnHzSM|83",
+         "treeaspen08_000012c3.dds": "antVsr625SzD|367104",
+         "treeaspen08_000012c3.txt": "jqmo6QVzDROW|83",
+         "treeaspen09_00001825.dds": "bm63gyl03R4t|380112",
+         "treeaspen09_00001825.txt": "tqOZ6Gp5yqB/|83"
+        },
+        "skyrim.esm": {
+         "treeaspen01_0006a9e6.dds": "h+y17W+gSKj4|752000",
+         "treeaspen01_0006a9e6.txt": "JvKi9t0B3lbs|86",
+         "treeaspen02_0006c9d5.dds": "OfJeKBkU+OcE|668864",
+         "treeaspen02_0006c9d5.txt": "++iCpCl/5DX9|86",
+         "treeaspen03_0006c9d4.dds": "LsgSS2fMEZZz|455296",
+         "treeaspen03_0006c9d4.txt": "SAh8o/MTrGE3|85",
+         "treeaspen04_0005fada.dds": "j8BeSMVx6Xpl|439648",
+         "treeaspen04_0005fada.txt": "sx6zAvkuM6cU|85",
+         "treeaspen05_0007614b.dds": "IVl6VLY4gNrn|564288",
+         "treeaspen05_0007614b.txt": "sx6zAvkuM6cU|85",
+         "treeaspen06_0007614a.dds": "5Yfl0fllAX0L|367104",
+         "treeaspen06_0007614a.txt": "Tz8VtCTbVoWk|85"
+        }
+       }
+      }
+     }
+    },
+    "lods-variety-big": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_1.nif": "K70LQYTn6Z76|36511",
+        "treeaspen01_lod_2.nif": "K70LQYTn6Z76|36511",
+        "treeaspen02_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_2.nif": "BY8xauqHylsJ|36511"
+       }
+      }
+     }
+    },
+    "lods-winter": {
+     "meshes": {
+      "landscape": {
+       "trees": {
+        "treeaspen01_lod_0.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_1.nif": "BY8xauqHylsJ|36511",
+        "treeaspen01_lod_2.nif": "BY8xauqHylsJ|36511",
+        "treeaspen02_lod_0.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_1.nif": "BMnR39Sci+xr|56745",
+        "treeaspen02_lod_2.nif": "BMnR39Sci+xr|56745",
+        "treeaspen03_lod_0.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_1.nif": "RwIlg0hANL37|69647",
+        "treeaspen03_lod_2.nif": "RwIlg0hANL37|69647",
+        "treeaspen04_lod_0.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_1.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen04_lod_2.nif": "RVS/My2Rbnwh|36635",
+        "treeaspen05_lod_0.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_1.nif": "mW1eDekVxooR|61895",
+        "treeaspen05_lod_2.nif": "mW1eDekVxooR|61895",
+        "treeaspen06_lod_0.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_1.nif": "EKJTnjI2WUme|34537",
+        "treeaspen06_lod_2.nif": "EKJTnjI2WUme|34537",
+        "treeaspen07_lod_0.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_1.nif": "86KH8XVxF45S|57277",
+        "treeaspen07_lod_2.nif": "86KH8XVxF45S|57277",
+        "treeaspen08_lod_0.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_1.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen08_lod_2.nif": "tp4LxYk5Op0B|34537",
+        "treeaspen09_lod_0.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_1.nif": "Uke1AlzFEMSw|57277",
+        "treeaspen09_lod_2.nif": "Uke1AlzFEMSw|57277"
+       }
+      }
+     },
+     "textures": {
+      "mx": {
+       "treeaspen01_c_lod.dds": "mmDlws0Pq9bI|1398276",
+       "treeaspen01_n_lod.dds": "NhbHi6IoaIHF|1398276",
+       "treeaspen02_c_lod.dds": "+oPHryP3sqwl|1398276",
+       "treeaspen02_n_lod.dds": "yY9JJEsADi5M|1398276",
+       "treeaspen03_c_lod.dds": "CrCYbiv+yZKm|1398276",
+       "treeaspen03_n_lod.dds": "2U6z3Bicppud|1398276",
+       "treeaspen04_c_lod.dds": "yaFuZppCsWvs|1398276",
+       "treeaspen04_n_lod.dds": "QU7cXWkdgFV1|1398276",
+       "treeaspen05_c_lod.dds": "cHbfSBQY5JzL|1398276",
+       "treeaspen05_n_lod.dds": "X+63yKrFkFSm|1398276",
+       "treeaspen06_c_lod.dds": "wVoifulV29aP|1398276",
+       "treeaspen06_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen07_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen07_n_lod.dds": "pD7/dK8/SmJT|1398276",
+       "treeaspen08_c_lod.dds": "wVoifulV29aP|1398276",
+       "treeaspen08_n_lod.dds": "H4VqS03UrGiY|1398276",
+       "treeaspen09_c_lod.dds": "uKP8fE9s9KIx|1398276",
+       "treeaspen09_n_lod.dds": "pD7/dK8/SmJT|1398276"
+      },
+      "terrain": {
+       "lodgen": {
+        "aspens ablaze.esp": {
+         "treeaspen07_00000d61.dds": "N0VgTO6kXS5H|380112",
+         "treeaspen07_00000d61.txt": "1FxMWOKnHzSM|83",
+         "treeaspen08_000012c3.dds": "lJiYmxTB2YpE|367104",
+         "treeaspen08_000012c3.txt": "jqmo6QVzDROW|83",
+         "treeaspen09_00001825.dds": "OfUw2AK4fwTo|380112",
+         "treeaspen09_00001825.txt": "tqOZ6Gp5yqB/|83"
+        },
+        "skyrim.esm": {
+         "treeaspen01_0006a9e6.dds": "736Z1USKNV1L|752000",
+         "treeaspen01_0006a9e6.txt": "JvKi9t0B3lbs|86",
+         "treeaspen02_0006c9d5.dds": "T0yF2PbJsQLe|668864",
+         "treeaspen02_0006c9d5.txt": "++iCpCl/5DX9|86",
+         "treeaspen03_0006c9d4.dds": "PZ6FVL0dQxBY|458880",
+         "treeaspen03_0006c9d4.txt": "SAh8o/MTrGE3|85",
+         "treeaspen04_0005fada.dds": "lmk2Sz1wvgNG|439648",
+         "treeaspen04_0005fada.txt": "sx6zAvkuM6cU|85",
+         "treeaspen05_0007614b.dds": "aMZya+EjWw2G|564288",
+         "treeaspen05_0007614b.txt": "sx6zAvkuM6cU|85",
+         "treeaspen06_0007614a.dds": "b05LYhxeLitt|367104",
+         "treeaspen06_0007614a.txt": "Tz8VtCTbVoWk|85"
+        }
+       }
+      }
+     }
     }
    },
    "aka": []
